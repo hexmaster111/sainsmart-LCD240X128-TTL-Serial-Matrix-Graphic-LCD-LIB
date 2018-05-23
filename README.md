@@ -1,1 +1,1 @@
-# sainsmart-LCD240X128-TTL-Serial-Matrix-Graphic-LCD-LIB
+# Sainsmart 240x128 TTL Driver
