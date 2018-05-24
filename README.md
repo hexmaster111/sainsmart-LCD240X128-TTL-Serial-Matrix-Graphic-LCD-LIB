@@ -1,4 +1,4 @@
-# Sainsmart 240x128 TTL Driver
+# Sainsmart 240x128 TTL Lib
 
 **will soon add the abbility to change scerial port or to use software scerial**
 
