@@ -4,10 +4,10 @@
 #include <Arduino.h>
 #include <string.h>
 
-class LCD{
+class LCD
+{
 public:
-	void init();
-	//void ~INIT();
+	void begin(HardwareSerial *serial);
 	void clear();
 	void print(int row, int col, String data);
 };
